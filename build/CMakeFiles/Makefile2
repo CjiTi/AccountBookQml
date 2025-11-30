@@ -92,11 +92,11 @@ clean: CMakeFiles/appAccountBookQml_autogen.dir/clean
 # Target rules for target CMakeFiles/appAccountBookQml.dir
 
 # All Build rule for target.
-CMakeFiles/appAccountBookQml.dir/all: CMakeFiles/appAccountBookQml_copy_res.dir/all
 CMakeFiles/appAccountBookQml.dir/all: CMakeFiles/appAccountBookQml_copy_qml.dir/all
+CMakeFiles/appAccountBookQml.dir/all: CMakeFiles/appAccountBookQml_copy_res.dir/all
 CMakeFiles/appAccountBookQml.dir/all: CMakeFiles/appAccountBookQml_qmlimportscan.dir/all
-CMakeFiles/appAccountBookQml.dir/all: CMakeFiles/appAccountBookQml_autogen_timestamp_deps.dir/all
 CMakeFiles/appAccountBookQml.dir/all: CMakeFiles/appAccountBookQml_autogen.dir/all
+CMakeFiles/appAccountBookQml.dir/all: CMakeFiles/appAccountBookQml_autogen_timestamp_deps.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\appAccountBookQml.dir\build.make CMakeFiles/appAccountBookQml.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\appAccountBookQml.dir\build.make CMakeFiles/appAccountBookQml.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\22865\VScode\Vscode\qt\AccountBookQml\build\CMakeFiles --progress-num=2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45 "Built target appAccountBookQml"
@@ -462,8 +462,8 @@ CMakeFiles/appAccountBookQml_qmlimportscan.dir/clean:
 # Target rules for target CMakeFiles/appAccountBookQml_autogen_timestamp_deps.dir
 
 # All Build rule for target.
-CMakeFiles/appAccountBookQml_autogen_timestamp_deps.dir/all: CMakeFiles/appAccountBookQml_copy_res.dir/all
 CMakeFiles/appAccountBookQml_autogen_timestamp_deps.dir/all: CMakeFiles/appAccountBookQml_copy_qml.dir/all
+CMakeFiles/appAccountBookQml_autogen_timestamp_deps.dir/all: CMakeFiles/appAccountBookQml_copy_res.dir/all
 CMakeFiles/appAccountBookQml_autogen_timestamp_deps.dir/all: CMakeFiles/appAccountBookQml_qmlimportscan.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\appAccountBookQml_autogen_timestamp_deps.dir\build.make CMakeFiles/appAccountBookQml_autogen_timestamp_deps.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\appAccountBookQml_autogen_timestamp_deps.dir\build.make CMakeFiles/appAccountBookQml_autogen_timestamp_deps.dir/build

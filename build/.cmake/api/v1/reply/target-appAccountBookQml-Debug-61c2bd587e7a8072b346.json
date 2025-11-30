@@ -399,7 +399,7 @@
 			{
 				"command" : 14,
 				"file" : 10,
-				"line" : 3613,
+				"line" : 3607,
 				"parent" : 59
 			},
 			{
@@ -411,7 +411,7 @@
 			{
 				"command" : 14,
 				"file" : 10,
-				"line" : 3607,
+				"line" : 3613,
 				"parent" : 59
 			},
 			{
@@ -1191,22 +1191,22 @@
 	[
 		{
 			"backtrace" : 61,
-			"id" : "appAccountBookQml_copy_res::@6890427a1f51a3e7e1df"
+			"id" : "appAccountBookQml_copy_qml::@6890427a1f51a3e7e1df"
 		},
 		{
 			"backtrace" : 63,
-			"id" : "appAccountBookQml_copy_qml::@6890427a1f51a3e7e1df"
+			"id" : "appAccountBookQml_copy_res::@6890427a1f51a3e7e1df"
 		},
 		{
 			"backtrace" : 70,
 			"id" : "appAccountBookQml_qmlimportscan::@6890427a1f51a3e7e1df"
 		},
 		{
-			"id" : "appAccountBookQml_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
-		},
-		{
 			"backtrace" : 0,
 			"id" : "appAccountBookQml_autogen::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "appAccountBookQml_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "appAccountBookQml::@6890427a1f51a3e7e1df",
