@@ -1,0 +1,10 @@
+-I
+C:/Users/22865/VScode/Vscode/qt/AccountBookQml/build
+-I
+C:/Users/22865/VScode/QT/6.9.2/mingw_64/qml
+--resource
+C:/Users/22865/VScode/Vscode/qt/AccountBookQml/build/.qt/rcc/qmake_AccountBookQml.qrc
+--resource
+C:/Users/22865/VScode/Vscode/qt/AccountBookQml/build/.qt/rcc/appAccountBookQml_raw_qml_0.qrc
+--module
+AccountBookQml

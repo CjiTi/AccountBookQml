@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/22865/VScode/Vscode/qt/AccountBookQml
+-cmake-output
+-output-file
+C:/Users/22865/VScode/Vscode/qt/AccountBookQml/build/.qt/qml_imports/appAccountBookQml_build.cmake
+-importPath
+C:/Users/22865/VScode/Vscode/qt/AccountBookQml/build/AccountBookQml
+-importPath
+C:/Users/22865/VScode/Vscode/qt/AccountBookQml/build
+-importPath
+C:/Users/22865/VScode/QT/6.9.2/mingw_64/qml
+-qrcFiles
+C:/Users/22865/VScode/Vscode/qt/AccountBookQml/build/.qt/rcc/qmake_AccountBookQml.qrc
+C:/Users/22865/VScode/Vscode/qt/AccountBookQml/build/.qt/rcc/appAccountBookQml_raw_qml_0.qrc

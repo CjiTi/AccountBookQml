@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/AccountBookQml">
+    <file alias="qmldir">C:/Users/22865/VScode/Vscode/qt/AccountBookQml/build/AccountBookQml/qmldir</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="/qt/qml/AccountBookQml/">
+    <file alias="Welcome.qml">C:/Users/22865/VScode/Vscode/qt/AccountBookQml/Welcome.qml</file>
+    <file alias="Login.qml">C:/Users/22865/VScode/Vscode/qt/AccountBookQml/Login.qml</file>
+    <file alias="Logon.qml">C:/Users/22865/VScode/Vscode/qt/AccountBookQml/Logon.qml</file>
+    <file alias="Main.qml">C:/Users/22865/VScode/Vscode/qt/AccountBookQml/Main.qml</file>
+    <file alias="Home.qml">C:/Users/22865/VScode/Vscode/qt/AccountBookQml/Home.qml</file>
+    <file alias="Template.qml">C:/Users/22865/VScode/Vscode/qt/AccountBookQml/Template.qml</file>
+    <file alias="Setting.qml">C:/Users/22865/VScode/Vscode/qt/AccountBookQml/Setting.qml</file>
+    <file alias="MyBill.qml">C:/Users/22865/VScode/Vscode/qt/AccountBookQml/MyBill.qml</file>
+    <file alias="User.qml">C:/Users/22865/VScode/Vscode/qt/AccountBookQml/User.qml</file>
+    <file alias="Personal.qml">C:/Users/22865/VScode/Vscode/qt/AccountBookQml/Personal.qml</file>
+    <file alias="Bill.qml">C:/Users/22865/VScode/Vscode/qt/AccountBookQml/Bill.qml</file>
+    <file alias="Summary.qml">C:/Users/22865/VScode/Vscode/qt/AccountBookQml/Summary.qml</file>
+    <file alias="Bookkeeping.qml">C:/Users/22865/VScode/Vscode/qt/AccountBookQml/Bookkeeping.qml</file>
+  </qresource>
+</RCC>
+

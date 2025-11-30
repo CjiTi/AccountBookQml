@@ -1,0 +1,3 @@
+C:\Users\22865\VScode\QT\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\appAccountBookQml.dir/objects.a
+C:\Users\22865\VScode\QT\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\appAccountBookQml.dir/objects.a @CMakeFiles\appAccountBookQml.dir\objects1.rsp
+c:\Users\22865\VScode\QT\Tools\mingw1310_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\appAccountBookQml.dir/objects.a -Wl,--no-whole-archive -o appAccountBookQml.exe -Wl,--out-implib,libappAccountBookQml.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\appAccountBookQml.dir\linkLibs.rsp

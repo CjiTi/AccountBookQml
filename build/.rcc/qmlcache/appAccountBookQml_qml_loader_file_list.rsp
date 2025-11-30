@@ -1,0 +1,17 @@
+--resource
+C:/Users/22865/VScode/Vscode/qt/AccountBookQml/build/.qt/rcc/qmake_AccountBookQml.qrc
+--resource
+C:/Users/22865/VScode/Vscode/qt/AccountBookQml/build/.qt/rcc/appAccountBookQml_raw_qml_0.qrc
+/qt/qml/AccountBookQml/Welcome.qml
+/qt/qml/AccountBookQml/Login.qml
+/qt/qml/AccountBookQml/Logon.qml
+/qt/qml/AccountBookQml/Main.qml
+/qt/qml/AccountBookQml/Home.qml
+/qt/qml/AccountBookQml/Template.qml
+/qt/qml/AccountBookQml/Setting.qml
+/qt/qml/AccountBookQml/MyBill.qml
+/qt/qml/AccountBookQml/User.qml
+/qt/qml/AccountBookQml/Personal.qml
+/qt/qml/AccountBookQml/Bill.qml
+/qt/qml/AccountBookQml/Summary.qml
+/qt/qml/AccountBookQml/Bookkeeping.qml

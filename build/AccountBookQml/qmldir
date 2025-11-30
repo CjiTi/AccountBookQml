@@ -1,0 +1,18 @@
+module AccountBookQml
+typeinfo appAccountBookQml.qmltypes
+prefer :/qt/qml/AccountBookQml/
+Welcome 1.0 Welcome.qml
+Login 1.0 Login.qml
+Logon 1.0 Logon.qml
+Main 1.0 Main.qml
+Home 1.0 Home.qml
+Template 1.0 Template.qml
+Setting 1.0 Setting.qml
+MyBill 1.0 MyBill.qml
+User 1.0 User.qml
+Personal 1.0 Personal.qml
+Bill 1.0 Bill.qml
+Summary 1.0 Summary.qml
+Bookkeeping 1.0 Bookkeeping.qml
+depends QtQuick
+
